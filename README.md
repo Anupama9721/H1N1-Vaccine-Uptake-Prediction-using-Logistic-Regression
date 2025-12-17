@@ -56,3 +56,11 @@ The goal of this project is to predict **vaccine acceptance (Yes/No)** based on 
 ---
 
 ## 📂 Project Structure
+
+├── dataset/
+│ └── h1n1_vaccine_prediction.csv
+├── notebook/
+│ └── LogisticR_H1N1_Prediction.ipynb
+├── output/
+│ └── model_visuals.html
+├── README.md
